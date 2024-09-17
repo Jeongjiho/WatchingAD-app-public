@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btnMain"
+        android:icon="@drawable/ic_home_24"
+        app:showAsAction="always"
+        android:title="메인" />
+    <item
+        android:id="@+id/btnGamble"
+        android:icon="@drawable/ic_coin_24"
+        app:showAsAction="always"
+        android:title="룰2"/>
+    <!--<item
+        android:id="@+id/btnRank"
+        android:icon="@drawable/ic_ranking_24"
+        app:showAsAction="always"
+        android:title="랭크" />-->
+    <item
+        android:id="@+id/btnMore"
+        android:icon="@drawable/ic_more_24"
+        app:showAsAction="always"
+        android:title="마이" />
+</menu>

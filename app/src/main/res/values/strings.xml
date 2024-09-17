@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WatchingAD</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="impossible_game">Impossible Game</string>
+    <string name="retry_button_text">Retry</string>
+</resources>
